@@ -7,3 +7,5 @@ Scripts that run against my home lab's real logs and services live in [Prod-env-
 | Week | Task |
 |---|---|
 | 01 | Read a file, count the lines, and filter the error lines |
+| 02 | 
+| 03 | 
