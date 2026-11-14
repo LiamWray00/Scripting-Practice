@@ -18,5 +18,5 @@ Both print 10 total lines, the six error lines, and a count of 6 for the sample 
 
 ## What I learned creating python script
 
-- In Python, `count = 0` has to come before the loop so the variable exists and doesn't reset on each pass.
+- In Python, `count = 0` & `error_count = 0` has to come before the loop so the variable exists and doesn't reset on each pass.
 - Variable names have to match: `open(...) as file` means the next line uses `file.readlines()`.
