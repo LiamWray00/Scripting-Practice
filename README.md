@@ -1,4 +1,4 @@
-# scripting-practice
+# Scripting Practice
 
 Weekly Bash and Python practice, one folder per week. Each folder has the Bash and Python versions of the same task, the sample input, and a short note on what I learned.
 
